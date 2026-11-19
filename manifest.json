@@ -1,0 +1,17 @@
+{
+  "access_provider_type": "ratpanel",
+  "binary": "ratpanel.exe",
+  "capability": "deploy",
+  "category": "website",
+  "display_name_key": "provider.ratpanel_common",
+  "icon": "ratpanel.png",
+  "max_core_version": "",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "ratpanel",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
